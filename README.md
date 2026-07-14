@@ -1,5 +1,5 @@
 # Data Cleaning & Exploratory Data Analysis (EDA)
-### DecodeLabs Internship – Project 1
+### DecodeLabs Internship – Project 2
 
 ## Overview
 
@@ -95,6 +95,18 @@ python EDA_Orders_Dataset.py
 | distributions.png | Histograms of Quantity, UnitPrice, ItemsInCart, TotalPrice |
 | boxplots.png | Boxplots for outlier inspection |
 | correlation_heatmap.png | Correlation matrix heatmap for numeric fields |
+
+### Monthly Sales Trend
+![Monthly Sales Trend](monthly_sales_trend.png)
+
+### Distribution of Numeric Columns
+![Distributions](distributions.png)
+
+### Boxplots (Outlier Inspection)
+![Boxplots](boxplots.png)
+
+### Correlation Heatmap
+![Correlation Heatmap](correlation_heatmap.png)
 
 ## Key Skills Applied
 
